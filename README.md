@@ -13,4 +13,6 @@ Programmed data merging applications to combine the datasets from various source
 
 Used ggplot (google maps api) for plotting choropleth coordinate data
 
-More Details of Project on https://devpost.com/software/correpleth and https://github.com/benjaminalbert/hophacks-2019
+Collaborated with Benjamin Albert who focused on data collection and analytics, while I helped look for data sources and built the mapper and GUI. 
+
+For More Details of Project please visit https://devpost.com/software/correpleth and https://github.com/benjaminalbert/hophacks-2019
